@@ -1,3 +1,10 @@
+cd the root of the directory
+
+Install the relevant packages required for the program to run
+
+Run python bbc_news_classification.py in root of the directory
+
+
 Consists of 2225 documents from the BBC news website corresponding to stories in five topical areas from 2004-2005.
 Natural Classes: 5 (business, entertainment, politics, sport, tech)
 
